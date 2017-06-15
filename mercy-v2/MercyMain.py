@@ -33,9 +33,6 @@ killcam_detection_threshold = 65
 # Seconds after first detection of killcam that ANOTHER killcam could then be registered
 killcam_minimum_headway_length = 7
 
-# Match result detection threshold
-match_result_detection_threshold = 50
-
 # Seconds after first detection of match result that ANOTHER match result could then be registered
 match_result_minimum_headway_length = 60
 
